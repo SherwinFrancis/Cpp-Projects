@@ -4,7 +4,7 @@ This program analyzes a large text file to count the occurrences of user-specifi
 
 ---
 
-## 🔧 Instructions
+## Instructions
 
 1. The program asks the user for:  
    - Input text file name  
@@ -23,7 +23,7 @@ This program analyzes a large text file to count the occurrences of user-specifi
 
 ---
 
-## 🛠 Implementation
+## Implementation
 
 - **Class:** `ReadWords`  
   - Manages reading and storing words from the text file.  
