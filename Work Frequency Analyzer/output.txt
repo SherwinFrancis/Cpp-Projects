@@ -1,0 +1,11 @@
+Word Occurrence of:
+affair  ==== 4 Occurences (0.011%)
+dead    =============================== 31 Occurences (0.088%)
+denmark ============================ 28 Occurences (0.080%)
+hate    = 1 Occurence (0.003%)
+heaven  =============================================== 47 Occurences (0.134%)
+heart   ============================== 30 Occurences (0.086%)
+love    ==================================================================== 68 Occurences (0.194%)
+macbeth  0 Occurences (0.000%)
+music   ======== 8 Occurences (0.023%)
+sorrow  ====== 6 Occurences (0.017%)
